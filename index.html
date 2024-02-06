@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Verse Generator</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <section class="box">
+      <h1 class="top-text">Here's the verse of the day.</h1>
+      <div class="text-box">
+        <p class="text"></p>
+        <div class="quotation-text">
+          <p class="book"></p>
+          <p class="chapter"></p>
+          <p class="verse"></p>
+        </div>
+      </div>
+      <button class="btn">Generate another verse</button>
+    </section>
+
+    <div class="credit">
+      <p>
+        Using
+        <a target="_blank" href="https://labs.bible.org/api_web_service"
+          >Bible.org</a
+        >
+        NET Bible Web Service (API)
+      </p>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
