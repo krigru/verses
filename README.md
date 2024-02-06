@@ -1,4 +1,5 @@
 # Verses - Verse generator
 Generates the verse of the day or a new random verse by the click of a button.
+![image](https://github.com/krigru/verses/assets/85772959/459e9891-39b9-4cbc-9f4b-1dfea17d205f)
 
-![image](https://github.com/krigru/verses/assets/85772959/75aabe05-204c-4ce2-82d9-ea2e95eb51f6)
+Link to project https://verses-eta.vercel.app/
